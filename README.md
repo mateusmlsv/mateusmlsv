@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Javascript and it's technologies
 - 👯 I’m looking to collaborate on ... (still studying....)
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about **PHP, Javascrip, NodeJs, MongoDB
+- 💬 Ask me about **PHP, Javascrip, NodeJs, MongoDB**
 - 📫 How to reach me: **mateuslsvieira@hotmail.com**
 - ⚡ Fun fact: I really like learning English
 
