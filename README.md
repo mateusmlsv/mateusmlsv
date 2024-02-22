@@ -1,12 +1,10 @@
-<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Mateus Leandro</h1>
-<h3 align="center">A Web Developer focused on always learning something new</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mateusmlsv" alt="maykbrito" /> </p>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Mateus Leandro</h1>
+<h3 align="center">A Senior software engineer focused on always learning something new</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mateusmlsv" alt="mateusLeandro" /> </p>
 
-- 🔭 I’m currently working on [New Way](https://www.gruponewway.com.br)
-- 🌱 I’m currently learning Javascript and it's technologies
-- 👯 I’m looking to collaborate on ... (still studying....)
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about **PHP, Javascrip, NodeJs, MongoDB**
+- 🔭 I’m currently working on [Zup Innovation](https://www.zup.com.br/)
+- 🌱 I’m currently working Javascript and it's technologies
+- 💬 Ask me about **NodeJs, Dynamodb, Apache Kafka, AWS**
 - 📫 How to reach me: **mateuslsvieira@hotmail.com**
 - ⚡ Fun fact: I really like learning English
 
