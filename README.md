@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Mateus Leandro</h1>
+<h1 align="center">Hi, I'm Mateus Leandro</h1>
 <h3 align="center">A Senior software engineer focused on always learning something new</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mateusmlsv" alt="mateusLeandro" /> </p>
 
